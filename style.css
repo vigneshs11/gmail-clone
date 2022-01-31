@@ -1,3 +1,9 @@
 h1, h2 {
   font-family: Lato;
 }
+
+.part1{
+  display: flex;
+  flex-direction: row;
+  margin-left: 5px;
+}
